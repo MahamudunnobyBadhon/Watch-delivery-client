@@ -1,4 +1,4 @@
-This project is based on Watch.. The live link:
+This project is based on Watch.. The live link: https://ghori-71827.web.app/
 
 Here i have used:
 * Email/Password authentication system
