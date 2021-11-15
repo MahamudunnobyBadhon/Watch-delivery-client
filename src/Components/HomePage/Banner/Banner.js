@@ -1,6 +1,4 @@
 import React from "react";
-import banner1 from "../../../images/banner1.jpg"
-import banner2 from '../../../images/banner2.jpg'
 import banner3 from '../../../images/banner3.jpg'
 import banner4 from '../../../images/banner4.jpg'
 import banner5 from '../../../images/banner5.jpg'

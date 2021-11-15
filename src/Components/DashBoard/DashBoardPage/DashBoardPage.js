@@ -18,7 +18,7 @@ import GiveReview from "../GiveReview/GiveReview";
 import Payment from "../Payment/Payment";
 import navbarimage from '../../../images/navbarWatch.jpg'
 
-import { useEffect } from "react/cjs/react.development";
+import { useEffect } from "react";
 
 const DashBoardPage = () => {
 

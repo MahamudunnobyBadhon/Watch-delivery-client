@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { useEffect, useState } from "react/cjs/react.development";
+import { useEffect, useState } from "react";
 import BottomPart from "../SharedComponents/BottomPart/BottomPart";
 import Footer from "../SharedComponents/Footer/Footer";
 import Header from "../SharedComponents/Header/Header";

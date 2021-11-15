@@ -1,7 +1,7 @@
 import axios from "axios";
 import React from "react";
 import { useParams } from "react-router";
-import { useEffect, useState } from "react/cjs/react.development";
+import { useEffect, useState } from "react";
 import useAuth from "../Hooks/useAuth";
 import BottomPart from "../SharedComponents/BottomPart/BottomPart";
 import Footer from "../SharedComponents/Footer/Footer";

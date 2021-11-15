@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React from 'react';
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 import useAuth from '../../Hooks/useAuth';
 
 const GiveReview = () => {
