@@ -1,0 +1,32 @@
+.footer{
+    background-color: #1f1f1f;
+    color: #8a8e96;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.row{
+    width: 80%;
+}
+
+ul{
+    list-style-type: square;
+}
+
+h5{
+    color: skyblue;
+}
+.fas{
+    color: #e87f56;
+}
+.fa-phone-volume{
+    color: #e87f56;
+}
+.fa-map-marker-alt{
+    color: #e87f56;
+}
+.fa-envelope{
+    color: #e87f56;
+}

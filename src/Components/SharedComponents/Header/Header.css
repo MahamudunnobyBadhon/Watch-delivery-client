@@ -1,0 +1,11 @@
+.hospital-symbol{
+    color: #e87f56;
+}
+.hospital-name{
+    height: 40px;
+    font-size: larger;   
+}
+
+li a:hover {
+    color: red;
+}

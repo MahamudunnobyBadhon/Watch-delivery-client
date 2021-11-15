@@ -1,0 +1,21 @@
+.card:hover  {
+    background-color: black;
+    color: white;
+
+    transform: scale(1.01);
+    transition: transform 1.8s linear;
+}
+
+.card-footer:hover { 
+    background-color: black;
+}
+
+.card-footer { 
+    background-color: white;
+}
+
+.order-btn:hover {
+    
+    color: white;
+}
+

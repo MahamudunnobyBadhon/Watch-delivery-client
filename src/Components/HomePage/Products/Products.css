@@ -1,0 +1,12 @@
+.home-products{
+    width: 80%;
+}
+
+.fa-shopping-basket{
+    color: black;
+    size: 1.5em;
+}
+
+h4, h5{
+    font-family: 'Nunito', sans-serif;
+}
